@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🔭Currently working on Threads<br>👨‍💻 All of my projects are available at https://herjus-portfolio.vercel.app/</p>
+<p align="center">🔭Currently working on Threads<br>👨‍💻 All of my projects are available at https://herjus.tech/</p>
 
 ###
 
