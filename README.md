@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm Herjus from Norway<br><br>- 📚 I'm currently learning Rust<br>- Check out my projects on https://herjus.tech/</p>
+<p align="left">I'm Herjus from Norway<br><br>- 📚 I'm currently learning Rust<br>- Check out my projects on https://herjus.no/</p>
 
 ###
 
